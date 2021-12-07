@@ -1,0 +1,2 @@
+# Sistema-de-Compras-Java-LPOO
+Final work of the subject of Object Oriented Programming Language, made in partnership with the wonderful, Isabela Resende da Cunha😁 Project developed in Java to simulate a Purchasing System.
